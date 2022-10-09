@@ -1,0 +1,27 @@
+{
+  "name": "express-graphql-bookstore",
+  "version": "1.0.0",
+  "description": "express-graphql-bookstore",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weijuly/express-graphql-bookstore.git"
+  },
+  "keywords": [
+    "graphql"
+  ],
+  "author": "GopiKrishnan Ganesan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weijuly/express-graphql-bookstore/issues"
+  },
+  "homepage": "https://github.com/weijuly/express-graphql-bookstore#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.8.0"
+  }
+}
